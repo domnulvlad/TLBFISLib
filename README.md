@@ -1,5 +1,9 @@
 <h4 align="center"><b>TLBFISLib</b> is an Arduino library used for displaying custom information on the monochrome display (FIS/DIS) in the instrument cluster of VAG vehicles, through 3LB / TLB / TWB.</h4>
 
+<p align="center">
+  <img src="https://github.com/domnulvlad/TLBFISLib/blob/main/media/TLBFIS_display.png"/>
+</p>
+
 ---
 
 ## Features
