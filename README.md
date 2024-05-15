@@ -28,5 +28,10 @@ Download the [TLBLib](https://github.com/domnulvlad/TLBLib/releases/latest) libr
 
 After completing the hardware setup detailed on the wiki, there are a few demo sketches you can access by navigating to `File -> Examples -> TLBFISLib` in the Arduino IDE.
 
+## Credits
+Thanks go out to these people for their tremendous help along this project's development:
+* [Tomáš Kováčik](https://github.com/tomaskovacik), for the inspiration and base code
+* [Stuart / PCBBC](https://rnse.pcbbc.co.uk/), for the proprietary character mapping
+
 ## Contact
 For any inquiries, you can contact me at [ne555timer@yahoo.com](mailto:ne555timer@yahoo.com) or [open an issue](https://github.com/domnulvlad/TLBFISLib/issues).
