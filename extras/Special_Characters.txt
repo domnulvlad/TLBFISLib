@@ -1,0 +1,49 @@
+*Spaces:
+  SPACE_2PX, SPACE_3PX, SPACE_5PX, SPACE_6PX, LINE_CLEAR
+
+
+*Accented characters:
+  A_ACU, E_ACU, I_ACU, O_ACU, U_ACU, C_ACU, R_ACU, S_ACU, Z_ACU               -> acute uppercase
+  a_ACU, e_ACU, i_ACU, n_ACU, o_ACU, u_ACU, c_ACU, r_ACU, s_ACU, y_ACU, z_ACU -> acute lowercase
+  o_DAC, u_DAC                                                                -> double acute (only lowercase)
+  A_GRV, E_GRV, I_GRV, O_GRV, U_GRV                                           -> grave uppercase
+  a_GRV, e_GRV, i_GRV, o_GRV, u_GRV                                           -> grave lowercase
+  C_CRN, G_CRN, R_CRN, S_CRN, Z_CRN                                           -> caron uppercase
+  c_CRN, g_CRN, n_CRN, r_CRN, s_CRN, z_CRN                                    -> caron lowercase
+  C_CDL, S_CDL                                                                -> cedilla uppercase
+  c_CDL, s_CDL                                                                -> cedilla lowercase
+  A_CFX, E_CFX, I_CFX, O_CFX, U_CFX                                           -> circumflex uppercase
+  a_CFX, e_CFX, i_CFX, o_CFX, u_CFX, w_CFX, y_CFX                             -> circumflex lowercase
+  A_TLD, N_TLD, O_TLD                                                         -> tilde uppercase
+  a_TLD, n_TLD, o_TLD                                                         -> tilde lowercase
+  A_CRC                                                                       -> circle uppercase
+  a_CRC                                                                       -> circle lowercase
+  A_UML, E_UML, I_UML, O_UML, U_UML                                           -> umlaut uppercase
+  a_UML, e_UML, i_UML, o_UML, u_UML                                           -> umlaut lowercase
+  D_STR, T_STR, O_STR                                                         -> stroke uppercase
+  d_STR, t_STR, o_STR                                                         -> stroke lowercase
+  I_DOT, L_DOT                                                                -> dot uppercase
+  i_DOT, l_DOT                                                                -> dot lowercase
+
+
+*Misc. characters:
+  LETTER_ALPHA, LETTER_MU, LETTER_PI, LETTER_ETA_SMALL,   LETTER_ETA_BIG
+  LETTER_SS,    LETTER_ae, LETTER_AE, LETTER_THORN_SMALL, LETTER_THORN_BIG
+  LETTER_ETH,   LETTER_ij, LETTER_IJ, LETTER_oe,          LETTER_OE
+
+
+*Symbols:
+  UP_ARROW_TAIL,        DOWN_ARROW_TAIL,   LEFT_ARROW_TAIL,    RIGHT_ARROW_TAIL, BACK_ARROW
+  UP_ARROW_EMPTY,       DOWN_ARROW_EMPTY,  RIGHT_ARROW_EMPTY
+  UP_ARROW_FILLED,      DOWN_ARROW_FILLED, RIGHT_ARROW_FILLED, 
+  BOX,                  TICK,              CROSS,              CLOCK,            DEL
+  EURO,                 POUND,             CURRENCY
+  LINE,                 SELECTION_LOCKED,  VERTICAL_BAR,       SECTION,          COPYRIGHT
+  PERMILLE,             DIVIDE,            PLUS_MINUS
+  INVERTED_EXCLAMATION, INVERTED_QUESTION, ORDINAL_a,          ORDINAL_o,        DEGREE
+  SUPERSCRIPT_1,        SUPERSCRIPT_2,     SUPERSCRIPT_3
+  FRACTION_1_4,         FRACTION_1_2,      FRACTION_3_4
+
+
+* Special symbol for the GRAPHICS font:
+  GRAPHICS_NEWLINE

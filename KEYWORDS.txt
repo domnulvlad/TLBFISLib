@@ -1,0 +1,95 @@
+####################################
+# Syntax Coloring Map For TLBFISLib
+####################################
+
+####################################
+# Datatypes (KEYWORD1)
+####################################
+
+TLBFISLib	KEYWORD1
+
+screenSize	KEYWORD1
+drawColor	KEYWORD1
+font	KEYWORD1
+transparency	KEYWORD1
+alignment	KEYWORD1
+lineOrientation	KEYWORD1
+rectangleType	KEYWORD1
+
+####################################
+# Methods and Functions (KEYWORD2)
+####################################
+
+errorFunction	KEYWORD2
+
+begin	KEYWORD2
+end	KEYWORD2
+
+initScreen	KEYWORD2
+setWorkspace	KEYWORD2
+resetWorkspace	KEYWORD2
+getWorkspaceWidth	KEYWORD2
+getWorkspaceHeight	KEYWORD2
+clear	KEYWORD2
+
+provideMessage	KEYWORD2
+
+update	KEYWORD2
+turnOff	KEYWORD2
+
+setDrawColor	KEYWORD2
+
+setFont	KEYWORD2
+setTextTransparency	KEYWORD2
+setTextAlignment	KEYWORD2
+setLineSpacing	KEYWORD2
+
+writeChar	KEYWORD2
+writeText	KEYWORD2
+writeMultiLineText	KEYWORD2
+
+writeRadioText	KEYWORD2
+writeRadioRawData	KEYWORD2
+clearRadioText	KEYWORD2
+
+fixNumberPadding	KEYWORD2
+
+charWidth	KEYWORD2
+stringWidth	KEYWORD2
+
+toggleHighlight	KEYWORD2
+
+setBitmapTransparency	KEYWORD2
+
+drawBitmap	KEYWORD2
+
+drawLine	KEYWORD2
+drawThinLine	KEYWORD2
+drawRect	KEYWORD2
+
+####################################
+# Constants (LITERAL1)
+####################################
+
+FULLSCREEN	LITERAL1
+HALFSCREEN	LITERAL1
+
+NORMAL	LITERAL1
+INVERTED	LITERAL1
+
+STANDARD	LITERAL1
+COMPACT	LITERAL1
+GRAPHICS	LITERAL1
+
+OPAQUE	LITERAL1
+TRANSPARENT	LITERAL1
+
+LEFT	LITERAL1
+CENTER	LITERAL1
+RIGHT	LITERAL1
+
+HORIZONTAL	LITERAL1
+VERTICAL	LITERAL1
+
+NOT_FILLED	LITERAL1
+FILLED	LITERAL1
